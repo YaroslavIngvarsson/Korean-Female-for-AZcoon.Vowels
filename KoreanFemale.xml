@@ -92,7 +92,7 @@
           <string>a</string>
           <string>ŋ̚]</string>
         </Transcription>
-        <VowelStart>370</VowelStart>
+        <VowelStart>390</VowelStart>
       </Word>
 
     </WordList>
@@ -147,7 +147,7 @@
           <string>o</string>
           <string>k̚]</string>
         </Transcription>
-        <VowelStart>310</VowelStart>
+        <VowelStart>320</VowelStart>
       </Word>
 	  <Word>
         <AudioFile>SND000064610.mp3</AudioFile>
@@ -157,7 +157,7 @@
           <string>o</string>
           <string>ŋ̚]</string>
         </Transcription>
-        <VowelStart>775</VowelStart>
+        <VowelStart>840</VowelStart>
       </Word>
     </WordList>
   </Allophone>
@@ -179,7 +179,7 @@
           <string>u</string>
           <string>k̚]</string>
         </Transcription>
-        <VowelStart>350</VowelStart>
+        <VowelStart>360</VowelStart>
       </Word>
 	  <Word>
         <AudioFile>SND000303645.mp3</AudioFile>
@@ -212,7 +212,7 @@
           <string>ɯ</string>
           <string>k̚]</string>
         </Transcription>
-        <VowelStart>230</VowelStart>
+        <VowelStart>250</VowelStart>
       </Word>
 	  <Word>
         <AudioFile>SND000319372.mp3</AudioFile>
